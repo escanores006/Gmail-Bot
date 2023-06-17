@@ -2,5 +2,5 @@ settings:
   browser_thread: 5
   use_proxy: True
   proxy_protocol: "HTTP"
-  account_count: 10
+  account_count: 100
   api_key: "A6d9f33590185dc139ed28A2d8A49937"
